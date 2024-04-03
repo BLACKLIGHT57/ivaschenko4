@@ -1,0 +1,21 @@
+*
+{
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 0;
+    }
+    a, a:link, a:visited {
+    text-decoration: none;
+    }   
+    body {
+    background-color: hsl(0, 1%, 61%);
+    background-repeat: 10;
+    background-size: 2;
+    }
+    li {
+    margin-bottom: 10px;
+    }
+    img {
+        width: 640px;
+        height: 320px; 
+    }
