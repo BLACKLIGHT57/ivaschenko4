@@ -1,5 +1,5 @@
 <?php
-$db = mysqli_connect('localhost', 'u67377', '5414278', 'u67377');
+$db = mysqli_connect('localhost', 'dbnameeeeeeeeeee', 'Passssssss', 'dbnameeeeeeeeeee');
 if (!$db) {
     die('Error connecting to database: ' . mysqli_connect_error());
 }
